@@ -17,6 +17,7 @@ like transactions, replication, reporting, ... But the main advantage might be t
 A video about YesSql was recorded and is available here https://www.youtube.com/watch?v=D42eK6CJjF4 
 
 FAQ YOU
+
 --------------------
 
 ### Aren't NoSQL databases also about map/reduce ?
