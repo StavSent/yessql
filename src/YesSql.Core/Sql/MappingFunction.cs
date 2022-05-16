@@ -8,7 +8,9 @@ namespace YesSql.Sql
 
         public MappingFunction(string name)
         {
+        
             _name = name;
+            
         }
 
         public string Render(string[] arguments)
