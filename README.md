@@ -1,5 +1,5 @@
 YesSql
-=============
+==============
 
 A .NET document database interface for relational databases, because in SQL we (still) trust 
 
