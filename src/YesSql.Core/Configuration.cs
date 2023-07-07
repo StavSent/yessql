@@ -13,10 +13,6 @@ namespace YesSql
     {
         public Configuration()
         {
-
-
-
-        
             IdentifierAccessorFactory = new PropertyAccessorFactory("Id");
             VersionAccessorFactory = new PropertyAccessorFactory("Version");
             ContentSerializer = new JsonContentSerializer();
