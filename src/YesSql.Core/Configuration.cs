@@ -12,10 +12,6 @@ namespace YesSql
     public class Configuration : IConfiguration
     {
 
-
-
-
-    
         public Configuration()
         {
             IdentifierAccessorFactory = new PropertyAccessorFactory("Id");
