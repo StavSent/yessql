@@ -10,6 +10,8 @@ namespace YesSql.Provider.SqlServer
 {
     public class SqlServerDialect : BaseDialect
     {
+
+    
         private static readonly Dictionary<DbType, string> _columnTypes = new Dictionary<DbType, string>
         {
             {DbType.Guid, "UNIQUEIDENTIFIER"},
